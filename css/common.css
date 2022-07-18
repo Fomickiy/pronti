@@ -3,6 +3,8 @@
 
 
 :root {
+    --accent-color:black;
+    --text-decoretion:#fff;
     font-family: 'Arimo', sans-serif;
 }
 
