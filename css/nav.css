@@ -1,0 +1,17 @@
+.nav{
+    font-size: 25px;
+    font-weight: 700;
+}
+.nav__link {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 10px;
+    color: var(--accent-color);
+    text-decoration: none;
+    transition:color 0.6s linear;
+}
+
+.nav__link:hover {
+    color:var(--text-decoretion) ;
+    
+} 
