@@ -10,14 +10,26 @@
 
 
 .form_navigation_image{
-width: 40px;
-height: 40px;
-color: brown;
-margin: 0 10px;
+width: 30px;
+height: 30px;
+margin-left: 12px;
 }
 
 
 .form__navigation{
     display: flex;
     justify-content: center;
+    gap: 40px;
+    
     }
+
+
+.form__button{
+
+}
+
+.form__button-catigories{
+    background:var(--color-button);
+    
+}
+
