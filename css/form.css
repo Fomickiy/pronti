@@ -21,7 +21,17 @@ margin-left: 12px;
     justify-content: center;
     gap: 40px;
     
-    }
+}
+
+
+
+.form__input{
+    width: 786px;
+    height: 42px;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin-left: 50px;
+}
 
 
 

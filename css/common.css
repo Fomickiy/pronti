@@ -7,8 +7,9 @@
     --text-decoretion:#afb0b0;
     --border-hr-color:#e3e3e5;
     --form-nav-color:#131313;
-    --color-button:#00bce4;
-    
+    --color-button:#ff5e7e;
+    --color-button-text:#fff;
+    --color-button-a-text:#ff4c4c;
     font-family: 'Arimo', sans-serif;
 }
 
@@ -26,7 +27,7 @@ img {
 }
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, 
-body, input, button, input {-webkit-appearance: none;-moz-appearance: none;appearance: none;}
+body, input, button, input {-webkit-appearance: none;-moz-appearance: none;appearance: none;border-image:none}
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
