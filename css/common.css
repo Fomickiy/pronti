@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Arimo:ital@1&display=swap');
-
+@import url('https://use.fontawesome.com/releases/v5.7.2/css/all.css');
 
 
 :root {
@@ -7,7 +7,8 @@
     --text-decoretion:#afb0b0;
     --border-hr-color:#e3e3e5;
     --form-nav-color:#131313;
-    --color-button:#f65c78;
+    --color-button:#00bce4;
+    
     font-family: 'Arimo', sans-serif;
 }
 
