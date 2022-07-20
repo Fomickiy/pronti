@@ -14,8 +14,19 @@ justify-content: space-between;
 align-items: center;
 }
 
+
 .header-navigetion{
     background-color:#f0f5f8 ;
     height: 55px;
+   
 }
 
+.header-nav__menu-item{
+    color: black;
+    text-transform: uppercase;
+}
+
+.header-nav__menu{
+    word-spacing: 30px;
+    
+}
