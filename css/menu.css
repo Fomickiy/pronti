@@ -6,7 +6,7 @@ input[type="checkbox"]{
 label{
 	width: 186px;
     height: 40px;
-	transform: translate(-16%,-1%);
+	transform: translate(-77%,-1%);
 	background: var(--color-button);
 	border-radius: 30px;
 }
