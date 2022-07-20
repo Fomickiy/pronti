@@ -23,8 +23,8 @@
   
   input[type="search"]:focus {
     transition: all 0.5s;
-    box-shadow: 0 0 40px #f9d442b9;
-    border-color: #f9d342;
+    box-shadow: 0 0 40px #ff5e7e;
+    border-color: #ff5e7e;
     outline: none;
   }
   
@@ -51,15 +51,15 @@
     flex-shrink: 0;
     flex-basis: auto;
     align-self: center;
-    height: 51px;
+    height: 40px;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
   }
   
   input.search-submit {
-    height: 51px;
+    height: 40px;
     margin: 0;
-    padding: 1rem 1.3rem;
+    padding: 0rem 1.3rem;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
     border-top-right-radius: 0.25rem;
@@ -83,7 +83,7 @@
     line-height: 1.15;
     letter-spacing: 0.1rem;
     text-transform: uppercase;
-    background: #f9d342;
+    background: #ff5e7e;
     color: #292826;
     border: 1px solid transparent;
     vertical-align: middle;
